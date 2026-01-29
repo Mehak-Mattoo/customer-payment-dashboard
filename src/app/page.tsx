@@ -128,7 +128,7 @@ export default function Home() {
       <header className="sticky top-0 z-40 border-b  backdrop-blur ">
       
       </header>
-      <main className="container border border-gray-200 rounded-xl m-2 ">
+      <main className="container border border-gray-200 rounded-xl ">
         <div className=" bg-lightBlue p-3 flex flex-wrap items-center rounded-t-xl justify-between gap-3 ">
        <div className="flex items-center gap-2">  
 
